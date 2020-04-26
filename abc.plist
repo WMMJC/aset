@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CFBundleVersion</key>
+	<key>PlistVersion</key>
 	<string>1</string>
 	<key>DeforeColor</key>
 	<string>8f5e31</string>
@@ -22,6 +22,8 @@
 		</array>
 	</dict>
 	<key>DropOut</key>
+	<false/>
+	<key>ForceUpdate</key>
 	<false/>
 </dict>
 </plist>
